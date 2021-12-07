@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-	{"id":0, "file":0, "city":"Japan","country":"Japan","image":"germany","ip":"219.100.37.112 443","active":"true","signal":"a"},
+	{"id":0, "file":0, "city":"Japan","country":"Japan","image":"germany","ip":"en1.freeopenvpn.org 443 tcp-client","active":"true","signal":"a"},
 
   ]
 }
