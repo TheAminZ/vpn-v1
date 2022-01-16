@@ -6,14 +6,8 @@
 		"mayor":"Amin",
 		"1":"one",
 		"2":"two",
-		"3":"theree",
-		"4":"Amin",
-		"5":"Amin",
-		"6":"Amin",
-		"7":"Amin",
-		"8":"Amin",
-		"9":"Amin",
-		"10":"Amin",
+		"3":"theree"
+		
 	
 
 
