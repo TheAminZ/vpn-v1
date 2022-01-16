@@ -13,7 +13,21 @@
 		"7":"theree",
 		"8":"two",
 		"9":"theree",
-		"10":"ten"
+		"10":"ten",
+		"11":"theree",
+		"12":"ten",
+		"13":"theree",
+		"14":"ten",
+		"15":"theree",
+		"16":"ten",
+		"17":"theree",
+		"18":"ten",
+		"19":"theree",
+		"20":"ten",
+		"21":"theree",
+		"22":"ten",
+		"23":"theree",
+		"24":"ten"
 		
 		
 		
