@@ -21,10 +21,6 @@
 	{"id":2, "file":2, "city":"United State","country":"United State","image":"unitedstates","ip":"vpn157674668.opengw.net 443","active":"true","signal":"a"},
 	{"id":3, "file":3, "city":"United State","country":"United State","image":"unitedstates","ip":"public-vpn-190.opengw.net 1195","active":"true","signal":"a"},
   	{"id":4, "file":4, "city":"United State","country":"United State","image":"unitedstates","ip":"fra1.gpvpn.com 443","active":"true","signal":"a"},
-	{"id":5, "file":3, "city":"United State","country":"United State","image":"unitedstates","ip":"vpn157674668.opengw.net 443","active":"true","signal":"a"},
-	{"id":6, "file":3, "city":"United State","country":"United State","image":"unitedstates","ip":"vpn157674668.opengw.net 443","active":"true","signal":"a"},
-	{"id":7, "file":3, "city":"United State","country":"United State","image":"unitedstates","ip":"vpn157674668.opengw.net 443","active":"true","signal":"a"},
-	{"id":8, "file":6, "city":"United State","country":"United State","image":"russia","ip":"198.46.129.104 443","active":"true","signal":"a"},
 
   ]
 }
