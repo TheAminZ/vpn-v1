@@ -20,7 +20,7 @@
 	{"id":1, "file":1, "city":"United State","country":"United State","image":"unitedstates","ip":"vpn157674668.opengw.net 443","active":"true","signal":"a"},
 	{"id":2, "file":2, "city":"United State","country":"United State","image":"unitedstates","ip":"vpn157674668.opengw.net 443","active":"true","signal":"a"},
 	{"id":3, "file":3, "city":"United State","country":"Russia","image":"russia","ip":"public-vpn-190.opengw.net 1195","active":"true","signal":"a"},
-  	{"id":4, "file":4, "city":"United State","country":"Russia","image":"russia","ip":"fra1.gpvpn.com 443","active":"true","signal":"a"},
+  	{"id":4, "file":4, "city":"United State","country":"United State","image":"unitedstates","ip":"147.192.214.51 1774","active":"true","signal":"a"},
 
   ]
 }
